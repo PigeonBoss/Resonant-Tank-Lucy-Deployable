@@ -113,6 +113,17 @@ export default function LucyLandingPage() {
             Join Now
           </button>
         </form>
+        <p className="mt-4 text-sm text-gray-400">
+  After joining, you can <a 
+    href="/Lucy_Developer_Deck_Slide13_Resonance_Manifesto.pdf" 
+    target="_blank" 
+    rel="noopener noreferrer" 
+    className="text-blue-400 underline hover:text-blue-200"
+  >
+    click here to download the Manifesto.
+  </a>
+</p>
+
       </section>
 
       {/* Footer */}
