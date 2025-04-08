@@ -99,6 +99,11 @@ export default function LucyLandingPage() {
           method="POST" 
           target="_blank"
         >
+          <p className="text-sm text-gray-400 mb-2 italic">
+  A soft landing for hard tech. Lucy is an emotionally-aware engineering initiative — 
+  built to restore creativity, focus, and flow in real-world builders.
+</p>
+       
           <input 
             name="entry.1685301877" 
             type="email"
